@@ -44,25 +44,17 @@ Pick your match conditions — format, pitch type, weather, venue — hit start,
 
 ### 1. The selector proposes an XI
 
-<img src="docs/ui-01-selection.png" alt="Round 1 team selection: eleven player chips with captain and vice-captain marked, followed by the model's reasoning" width="100%">
-
 Eleven picks with the captain and vice-captain marked inline, plus the reasoning that justifies them against the conditions — here, betting on Wankhede's short boundaries with explosive strike rates.
 
 ### 2. The critic attacks it
-
-<img src="docs/ui-02-critique.png" alt="Round 1 critique flagged Needs revision, listing spin deficiency, a weak vice-captain choice, imbalanced batting depth and over-reliance on death bowling" width="100%">
 
 Not vague praise — specific, checkable objections: no frontline spinner for the middle overs, a vice-captain picked on recent form rather than venue record, five aggressive top-order batters with no anchor, three death specialists on a flat deck. Verdict: **needs revision**, so the loop continues.
 
 ### 3. The selector revises
 
-<img src="docs/ui-03-revision.png" alt="Round 2 selection adds spin options, followed by the critic's assessment of what improved and what is still weak" width="100%">
-
 Round 2 addresses each point — genuine spin depth via a leg-spinner and a left-arm orthodox all-rounder — and the critic responds in diff form: what improved, what's still weak.
 
 ### 4. The final XI
-
-<img src="docs/ui-04-final-xi.png" alt="Final XI panel: eleven numbered players with captain and vice-captain multipliers, tagged Max rounds" width="100%">
 
 The debate settles into a final team with the captain (2×) and vice-captain (1.5×) multipliers marked, tagged with how it ended — approved by the critic, or returned at the three-round limit as it was here.
 
