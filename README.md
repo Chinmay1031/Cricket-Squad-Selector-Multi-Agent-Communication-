@@ -6,6 +6,8 @@ A multi-agent AI system where **GPT proposes** a fantasy cricket XI and **Claude
 
 Ships with two interfaces: a rich terminal app and a React web app that streams the debate live over Server-Sent Events.
 
+> Built with **Claude Code** used as an engineering partner, not an autopilot — the architecture, prompt design, data model and trade-offs were driven by me; Claude Code sped up scaffolding, refactors and UI iteration under a tight review loop.
+
 ---
 
 ## Table of contents
